@@ -1,3 +1,3 @@
 # Screenshot
 
-![Screenshot of the Project](https://github.com/antomfdez/Awesome-Dots/blob/tree/main/screenshot.png)
+![Screenshot of the Project](https://github.com/antomfdez/Awesome-Dots/blob/main/screenshot.png)
