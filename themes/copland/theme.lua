@@ -16,7 +16,7 @@ local my_table = awful.util.table or gears.table -- 4.{0,1} compatibility
 
 local theme                                     = {}
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/copland"
-theme.wallpaper                                 = theme.dir .. "/wall.png"
+theme.wallpaper                                 = theme.dir .. "/forest.jpg"
 theme.font                                      = "Anonymous Pro 10.5"
 theme.fg_normal                                 = "#BBBBBB"
 theme.fg_focus                                  = "#78A4FF"
@@ -63,7 +63,7 @@ theme.layout_max                                = theme.dir .. "/icons/max.png"
 theme.layout_fullscreen                         = theme.dir .. "/icons/fullscreen.png"
 theme.layout_magnifier                          = theme.dir .. "/icons/magnifier.png"
 theme.layout_floating                           = theme.dir .. "/icons/floating.png"
-theme.useless_gap                               = 5
+theme.useless_gap                               = 10
 theme.titlebar_close_button_focus               = theme.dir .. "/icons/titlebar/close_focus.png"
 theme.titlebar_close_button_normal              = theme.dir .. "/icons/titlebar/close_normal.png"
 theme.titlebar_ontop_button_focus_active        = theme.dir .. "/icons/titlebar/ontop_focus_active.png"
